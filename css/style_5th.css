@@ -1,0 +1,53 @@
+.header{
+	background-color: red;
+	min-height: 150px;
+}
+.wrapper{
+	overflow: hidden;
+	border: 5px solid yellow;
+
+}
+.blog{
+	background-color: green;
+	min-height: 100px;
+	width: 70%;
+	float: left;	
+
+}
+.contact{
+	background-color: blue;
+	min-height: 100px;
+	width: 30%;
+	float: right;
+}
+
+.container{
+	overflow: hidden;
+	border: 5px solid green;
+}
+.box1{
+	background-color: aqua;
+	width: 33.3%;
+	min-height: 150px;
+	float: left;
+}
+.box2{
+	background-color: green;
+	width: 33.3%;
+	min-height: 150px;
+	float: left;	
+}
+.box3{
+	background-color: blue;
+	width: 33.4%;
+	min-height: 150px;
+	float: left;
+}
+
+
+
+.footer{
+	background-color: black;
+	min-height: 150px;
+
+}
